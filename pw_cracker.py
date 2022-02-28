@@ -1,4 +1,4 @@
-# Author: Ronald Egyir
+# Author: Ronald
 # 
 # Passwords are in the format found in /etc/shadow: $[hash_algorithm_id]$[hash_salt]$[hash_data]
 #
